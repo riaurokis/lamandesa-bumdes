@@ -36,3 +36,18 @@
   height: 24px;
   display: block;
 }
+.wa-number {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+}
+
+.wa-number img {
+  width: 20px;
+  height: 20px;
+}
+
+.wa-number span {
+  font-size: 14px;
+  color: var(--muted);
+}
