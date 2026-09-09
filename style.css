@@ -22,7 +22,6 @@
 .wa-icon {
   width: 46px;
   height: 46px;
-
   flex-shrink: 0;
 
   display: flex;
@@ -30,13 +29,10 @@
   justify-content: center;
 
   border-radius: 50%;
-
-  background: #25D366;
 }
 
 .wa-icon img {
-  width: 27px;
-  height: 27px;
-
+  width: 46px;
+  height: 46px;
   display: block;
 }
